@@ -1,0 +1,22 @@
+.calculator {
+    max-width: 300px;
+    margin:auto;
+    text-align: center;
+}
+
+.display {
+    width: 105%;
+    height: 50px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color:papayawhip;
+}
+
+.buttons button {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+}
